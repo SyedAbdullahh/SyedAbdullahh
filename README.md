@@ -5,7 +5,7 @@ I am Syed Abdullah Hassan.
 🌱I'm Currently Learning Flutter and Dart that will enable me targeting Multiple Platforms with a Single Code base.
 ### Reach Me Out At:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/syed-abdullah-hassan-a17286215/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdullah-hassan-a17286215/)
 
 
 <!--
