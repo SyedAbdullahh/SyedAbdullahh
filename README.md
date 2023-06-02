@@ -5,12 +5,8 @@ I am Syed Abdullah Hassan.
 🌱I'm Currently Learning Flutter and Dart that will enable me targeting Multiple Platforms with a Single Code base.
 ### Reach Me Out At:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdullah-hassan-a17286215/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=gradient)](https://www.linkedin.com/in/syed-abdullah-hassan-a17286215/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullahh&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullahh)](https://github.com/SyedAbdullahh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullahh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SyedAbdullahh/SyedAbdullahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
