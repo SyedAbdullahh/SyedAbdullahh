@@ -7,6 +7,8 @@ I am Syed Abdullah Hassan.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdullah-hassan-a17286215/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullahh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullahh)](https://github.com/SyedAbdullahh/github-readme-stats)
 
 
