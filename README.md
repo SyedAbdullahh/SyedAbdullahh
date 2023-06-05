@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Syed Abdullah Hassan. 
-⚡I'm Currently doing my Bachelors of Software Engineering at National University of Computer And Emerging Sciences FAST Lahore.
+⚡I'm Currently doing my Bachelors of Software Engineering at National University of Computer And Emerging Sciences(NUCES) FAST Lahore.
 🔭I have expertise in ASP.NET, C# SQL. 
 🌱I'm Currently Learning Flutter and Dart that will enable me targeting Multiple Platforms with a Single Code base
 ##### ![](https://komarev.com/ghpvc/?username=SyedAbdullahh&color=brightgreen)
