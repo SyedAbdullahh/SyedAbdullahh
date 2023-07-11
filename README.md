@@ -1,10 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1&background=FF4422FE&multiline=true&width=435&height=100&lines=Greetings%2CThis+is+Syed+Abdullah+Here;I'm+fond+of;+Developing+Enterprise+Apps+%26+Websites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1&vCenter=true&multiline=true&width=435&height=100&lines=Greetings%2CThis+is+Syed+Abdullah+Here;I'm+fond+of;+Developing+Enterprise+Apps+%26+Websites)](https://git.io/typing-svg)
 ### Hi there 👋
-I am Syed Abdullah Hassan. 
--⚡I'm Currently doing my Bachelors of Software Engineering at National University of Computer And Emerging Sciences(NUCES) FAST Lahore.
--🔭I have expertise in ASP.NET, C# SQL. 
--🌱I'm Currently Learning Flutter and Dart that will enable me targeting Multiple Platforms with a Single Code base
+This is Syed Abdullah Hassan here. ⚡I'm Currently doing my Bachelors of Software Engineering at National University of Computer And Emerging Sciences(NUCES) FAST Lahore. 🔭I have expertise in ASP.NET, C# SQL. 🌱Also, I'm Currently Learning Flutter and Dart that will enable me targeting Multiple Platforms with a Single Code base
 ##### ![](https://komarev.com/ghpvc/?username=SyedAbdullahh&color=brightgreen)
 
 <h3 align="left">Languages and Tools:</h3>
