@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2CThis+is+Syed+Abdullah+Here;I+love+to+Develop+Apps+%26+Websites)](https://git.io/typing-svg)
 I am Syed Abdullah Hassan. 
 ⚡I'm Currently doing my Bachelors of Software Engineering at National University of Computer And Emerging Sciences(NUCES) FAST Lahore.
 🔭I have expertise in ASP.NET, C# SQL. 
